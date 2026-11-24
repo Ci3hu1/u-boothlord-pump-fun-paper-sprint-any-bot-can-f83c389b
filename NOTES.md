@@ -69,8 +69,8 @@ Local sweep, all on the 24h dev window (2–3 Nov 2026, 1,222 coins,
 
 ## Kit check
 
-- (to be filled after running the kit check)
+- 24 Nov 2026 ~13:34 WIB on commit 570eeff: ok=true, failed=[] (reproduces 509/822 = 61.9%, revised pass via strategy.ts from 5 messages). Bundle sha256 b1387995e8f9f1af4dcf36f90224c77b15f22db2d6623353a0706644592275c9 (292,508 B; sessions 7689887a + 338680f8, 2 usage rows).
 
 ## Live score
 
-- Not submitted yet — awaiting Joni's 'Setuju' on this exact entry.
+- SUBMITTED 24 Nov 2026 ~13:34 WIB: submission 01a20c43-3c84-75c1-ab21-43351cbeeb42, stage submitted (grading queue behind at submit; check again in 5 min). Entry commit 570eeff1567de0255ae48efcfdb371cf508d8e9a. No blind rounds; closes 26 Nov 12:40 WIB.
